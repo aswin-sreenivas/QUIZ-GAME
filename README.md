@@ -212,10 +212,9 @@ Diploma in Computer Engineering
 #### Connect
 
 GitHub:
-https://github.com/yourusername
+https://github.com/aswin-sreenivas
 
-Portfolio:
-https://yourportfolio.com
+
 
 ---
 
